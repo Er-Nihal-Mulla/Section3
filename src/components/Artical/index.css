@@ -1,0 +1,232 @@
+.banner-x84v8p {
+    background-color: transparent;
+    height: 416px;
+    left: 63px;
+    position: absolute;
+    top: 188px;
+    width: 1367px;
+}
+.screen div {
+    -webkit-text-size-adjust: none;
+}
+
+.screen * {
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+}
+.rectangle-25-bQFdQx {
+    background-color: var(--white-7);
+    border-radius: 20px;
+    height: 365px;
+    left: 100px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 51px;
+    width: 1261px;
+}
+.read-article-bQFdQx {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+    left: 616px;
+    letter-spacing: 0.00px;
+    line-height: 27.1px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    text-decoration: underline;
+    top: 100px;
+    white-space: nowrap;
+    width: auto;
+}
+.the-best-way-to-avoi-bQFdQx {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    height: auto;
+    left: 616px;
+    letter-spacing: 0.00px;
+    line-height: 22.1px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 166px;
+    width: 387px;
+}
+.these-are-companies-bQFdQx {
+    background-color: transparent;
+    height: auto;
+    left: 616px;
+    letter-spacing: 0.00px;
+    line-height: 19.7px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 247px;
+    width: 375px;
+}
+.montserrat-normal-white-16px-2 {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+}
+.rectangle-50-bQFdQx {
+    background-color: transparent;
+    height: 365px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0px;
+    width: 509px;
+}
+.group-45-bQFdQx {
+    background-color: transparent;
+    height: 40px;
+    left: 1090px;
+    position: absolute;
+    top: 295px;
+    width: 92px;
+}
+.ellipse-3-cxyAUN {
+    background-color: transparent;
+    border: 1px solid var(--white);
+    border-radius: 20px;
+    height: 40px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 40px;
+}
+.ellipse-4-cxyAUN {
+    background-color: var(--white-7);
+    border-radius: 20px;
+    height: 40px;
+    left: 52px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0px;
+    width: 40px;
+}
+.left-arrow-cxyAUN {
+    background-color: transparent;
+    height: 40px;
+    left: 0px;
+    overflow: hidden;
+    position: absolute;
+    top: 0px;
+    width: 40px;
+}
+
+.essential-icons-chevron-left-IounVp {
+    background-color: transparent;
+    height: 24px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    width: 24px;
+}
+.right-arrow-cxyAUN {
+    background-color: transparent;
+    height: 40px;
+    left: 52px;
+    overflow: hidden;
+    position: absolute;
+    top: 0px;
+    width: 40px;
+}
+.essential-icons-chevron-right-Qz7edG {
+    background-color: transparent;
+    height: 24px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    width: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root {
+    --black: #000000;
+    --bon-jour: #e0e0e0;
+    --bright-turquoise: #16fbd2;
+    --heather: #b5bccc;
+    --suva-gray: #888888;
+    --white: #ffffff;
+    --white-2: #ffffff99;
+    --white-3: #ffffff1a;
+    --white-4: #ffffff33;
+    --white-5: #ffffff0d;
+    --white-6: #ffffff24;
+    --white-7: #ffffff0a;
+    --font-size-l: 20px;
+    --font-size-m: 16px;
+    --font-size-s: 13.2px;
+    --font-size-xl: 30px;
+    --font-size-xs: 12px;
+    --font-size-xxs: 10.2px;
+    --font-size-xxxs: 8.2px;
+    --font-family-arial-regular: "Arial-Regular", Helvetica;
+    --font-family-ibm_plex_mono: "IBM Plex Mono", Helvetica;
+    --font-family-montserrat: "Montserrat", Helvetica;
+    --font-family-noto_sans: "Noto Sans", Helvetica;
+    --font-family-poppins: "Poppins", Helvetica;
+    --font-family-prompt: "Prompt", Helvetica;
+}

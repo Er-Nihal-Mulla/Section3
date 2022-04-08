@@ -1,0 +1,980 @@
+import React from "react";
+
+function App() {
+  return <X3rdSection {...x3rdSectionData} />;
+}
+
+export default App;
+
+function X3rdSection(props) {
+  const {
+    x3RdSection,
+    readArticle,
+    theBestWayToAvoi,
+    theseAreCompanies,
+    ourTeam,
+    meetTheTeamOfBestDevelopers,
+    exploreMore1,
+    weHaveATeamOfSk,
+    x,
+    number1,
+    y,
+    number2,
+    w,
+    number3,
+    h,
+    number4,
+    price,
+    text1,
+    c,
+    number5,
+    fill,
+    ffffff,
+    percent,
+    ellipse91,
+    ellipse102,
+    projects,
+    weHaveCompletedMa,
+    technology,
+    projectTitle,
+    aLandingPageForDesktopApp1,
+    exploreMore2,
+    theDesktopAppLandingPage1,
+    aLandingPageForDesktopApp2,
+    exploreMore3,
+    theDesktopAppLandingPage2,
+    aLandingPageForDesktopApp3,
+    exploreMore4,
+    theMobileAppLandingPage,
+    aLandingPageForMobileApp,
+    exploreMore5,
+    joinUs,
+    exploreMore6,
+    beAPartOfOurHappyCommunity,
+    weTakeImmensePrid,
+    node,
+    java,
+    curl,
+    spanText1,
+    spanText2,
+    spanText3,
+    spanText4,
+    spanText5,
+    why,
+    whyWeAreTheBest,
+    weUnderstandYourNeeds,
+    merklabsTotallyRel,
+    weHaveAll,
+    weNotOnlyProvide,
+    weVerifyAndRectify,
+    verifyingTheVulner,
+    weAddValueToYourIdeas,
+    teamMarklabsPutIn,
+    place1,
+    weLoveReceivingMe,
+    key,
+    value,
+    email,
+    supportMerklabsTld,
+    sendMessege,
+    weLoveDevelopers,
+    nullamVariusPortti,
+    loremIpsumIsSimpl1,
+    loremIpsumIsSimpl2,
+    name1,
+    founderOfAwesomeuxTechnology1,
+    loremIpsumIsSimpl3,
+    ellipse8,
+    ellipse92,
+    name2,
+    founderOfAwesomeuxTechnology2,
+    name3,
+    founderOfAwesomeuxTechnology3,
+    name4,
+    founderOfAwesomeuxTechnology4,
+    weVePreparedEvery,
+    sendQuote1,
+    place2,
+    merk,
+    services,
+    company,
+    resources,
+    copyright2021DesignByMerkLabs,
+    webDevelopment,
+    appDevelopment,
+    uiDesign,
+    consultation,
+    maintenance,
+    about,
+    place3,
+    sendQuote2,
+    privacyPolicy,
+    termOfService,
+    jobs,
+    support,
+    documentation,
+    license,
+    sitemap,
+    typeText1Props,
+    typeText2Props,
+    typeText3Props,
+    typeTextareaProps,
+    group4401Props,
+    group4402Props,
+    blogBlocks1Props,
+    blogBlocks2Props,
+    group4403Props,
+    blogBlocks3Props,
+  } = props;
+
+  return (
+    <div className="container-center-horizontal">
+      <div className="x3rd-sectionscreen" style={{ backgroundImage: `url(${x3RdSection})` }}>
+        <div className="overlap-group14">
+          <div className="overlap-group12">
+            <div className="rectangle-25"></div>
+            <div className="read-article">
+              {readArticle}
+            </div>
+            <div className="the-best-way-to-avoi">
+              {theBestWayToAvoi}
+            </div>
+            <p className="these-are-companiesmontserrat-normal-white-16px-2">
+              {theseAreCompanies}
+            </p>
+            <img className="rectangle-50" src="rectangle-50-1.svg" />
+            <div className="group-45">
+              <div className="overlap-group1">
+                <div className="left-arrow">
+                  <img className="essential-icons-chevron" src="essential-icons-chevron-left.svg" />
+                </div>
+              </div>
+              <div className="overlap-group-3">
+                <div className="right-arrow">
+                  <img className="essential-icons-chevron" src="essential-icons-chevron-right.svg" />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="neon-4">
+            <img className="ellipse-10" src="ellipse-10.svg" />
+            <img className="line-6" src="line-6.svg" />
+          </div>
+        </div>
+        <div className="our-team-section-join-us">
+          <div className="flex-col">
+            <div className="our-team">
+              {ourTeam}
+            </div>
+            <div className="overlap-group11">
+              <div className="meet-the-team-of-best-developersmontserrat-bold-white-30px">
+                {meetTheTeamOfBestDevelopers}
+              </div>
+              <div className="overlap-group-4">
+                <div className="explore-moremontserrat-bold-white-17px">
+                  {exploreMore1}
+                </div>
+              </div>
+              <p className="we-have-a-team-of-skmontserrat-medium-white-16px">
+                {weHaveATeamOfSk}
+              </p>
+            </div>
+          </div>
+          <div className="overlap-group10">
+            <div className="rectangle-13"></div>
+            <div className="group-21">
+              <div className="ellipse-container">
+                <div className="ellipse-7"></div>
+                <div className="ellipse-8"></div>
+                <div className="ellipse-6"></div>
+              </div>
+              <img className="wireframer" src="wireframer.svg" />
+            </div>
+            <div className="overlap-group7border-1px-white-3notosans-semi-bold-white-12px">
+              <div className="overlap-group-container-1">
+                <div className="overlap-group">
+                  <div className="x">
+                    {x}
+                  </div>
+                  <div className="number">
+                    {number1}
+                  </div>
+                  <div className="rectangle-14border-1px-white-3"></div>
+                </div>
+                <div className="overlap-group-1">
+                  <div className="y">
+                    {y}
+                  </div>
+                  <div className="number-1">
+                    {number2}
+                  </div>
+                  <div className="rectangle-15border-1px-white-3"></div>
+                </div>
+              </div>
+              <div className="overlap-group-containernotosans-semi-bold-white-12px">
+                <div className="overlap-group">
+                  <div className="w">
+                    {w}
+                  </div>
+                  <div className="number-2">
+                    {number3}
+                  </div>
+                  <div className="rectangle-14-1border-1px-white-3"></div>
+                </div>
+                <div className="overlap-group-1">
+                  <div className="h">
+                    {h}
+                  </div>
+                  <div className="number-3">
+                    {number4}
+                  </div>
+                  <div className="rectangle-14-2border-1px-white-3"></div>
+                </div>
+              </div>
+              <div className="overlap-group-containernotosans-semi-bold-white-12px">
+                <div className="overlap-group">
+                  <div className="price">
+                    {price}
+                  </div>
+                  <div className="text-1">
+                    {text1}
+                  </div>
+                  <div className="rectangle-14-3border-1px-white-3"></div>
+                </div>
+                <div className="overlap-group-1">
+                  <div className="c">
+                    {c}
+                  </div>
+                  <div className="number-4">
+                    {number5}
+                  </div>
+                  <div className="rectangle-14-4border-1px-white-3"></div>
+                </div>
+              </div>
+              <div className="fill">
+                {fill}
+              </div>
+              <div className="flex-row">
+                <div className="overlap-group">
+                  <div className="overlap-group3">
+                    <div className="ffffff">
+                      {ffffff}
+                    </div>
+                    <div className="rectangle-14-5border-1px-white-3"></div>
+                  </div>
+                  <div className="rectangle-16"></div>
+                </div>
+                <div className="overlap-group8border-1px-white-3">
+                  <div className="percent">
+                    {percent}
+                  </div>
+                </div>
+                <img className="frame-5" src="frame-5.svg" />
+                <img className="frame-4" src="frame-4.svg" />
+              </div>
+            </div>
+            <div className="ellipse-14"></div>
+            <div className="ellipse-13"></div>
+            <img className="ellipse-9" src={ellipse91} />
+            <div className="ellipse-12"></div>
+            <div className="ellipse-11"></div>
+            <img className="ellipse-10-1" src={ellipse102} />
+          </div>
+        </div>
+        <div className="overlap-group15">
+          <div className="project-section">
+            <div className="flex-row-1">
+              <div className="page-header">
+                <div className="projectsmontserrat-semi-bold-bright-turquoise-16px">
+                  {projects}
+                </div>
+                <h1 className="we-have-completed-mamontserrat-bold-white-36px">
+                  {weHaveCompletedMa}
+                </h1>
+              </div>
+              <div className="fieldborder-1px-white-3">
+                <div className="technology">
+                  {technology}
+                </div>
+                <img className="chevron-down" src="chevron-down.svg" />
+              </div>
+            </div>
+            <div className="horizontal-line"></div>
+            <div className="project-container-container">
+              <div className="project-container">
+                <div className="overlap-group-2">
+                  <div className="group-22">
+                    <div className="rectangle-45border-1px-white-3"></div>
+                    <div className="project-title">
+                      {projectTitle}
+                    </div>
+                    <p className="a-landing-page-for-desktop-appmontserrat-bold-white-16px">
+                      {aLandingPageForDesktopApp1}
+                    </p>
+                  </div>
+                  <img className="rectangle-46" src="rectangle-46-1.svg" />
+                  <div className="rectangle-47"></div>
+                  <div className="rectangle-48"></div>
+                </div>
+                <div className="overlap-group-5">
+                  <div className="explore-moremontserrat-bold-white-17px">
+                    {exploreMore2}
+                  </div>
+                </div>
+              </div>
+              <div className="project-container-1">
+                <div className="overlap-group-2">
+                  <div className="group-22">
+                    <div className="rectangle-45border-1px-white-3"></div>
+                    <div className="the-desktop-app-landing-page">
+                      {theDesktopAppLandingPage1}
+                    </div>
+                    <p className="a-landing-page-for-desktop-appmontserrat-bold-white-16px">
+                      {aLandingPageForDesktopApp2}
+                    </p>
+                  </div>
+                  <img className="rectangle-46" src="rectangle-46-1.svg" />
+                  <div className="rectangle-47"></div>
+                  <div className="rectangle-48"></div>
+                </div>
+                <div className="overlap-group-6">
+                  <div className="explore-more-1">
+                    {exploreMore3}
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="project-container-container-1">
+              <div className="project-container-2">
+                <div className="overlap-group-2">
+                  <div className="group-22">
+                    <div className="rectangle-45border-1px-white-3"></div>
+                    <div className="themontserrat-bold-white-20px-2">
+                      {theDesktopAppLandingPage2}
+                    </div>
+                    <p className="a-landing-page-for-desktop-appmontserrat-bold-white-16px">
+                      {aLandingPageForDesktopApp3}
+                    </p>
+                  </div>
+                  <img className="rectangle-46" src="rectangle-46-1.svg" />
+                  <div className="rectangle-47"></div>
+                  <div className="rectangle-48"></div>
+                </div>
+                <div className="overlap-group-7">
+                  <div className="explore-moremontserrat-bold-white-17px">
+                    {exploreMore4}
+                  </div>
+                </div>
+              </div>
+              <div className="project-container-3">
+                <div className="overlap-group-2">
+                  <div className="group-22">
+                    <div className="rectangle-45border-1px-white-3"></div>
+                    <div className="themontserrat-bold-white-20px-2">
+                      {theMobileAppLandingPage}
+                    </div>
+                    <p className="a-landing-page-for-mobile-appmontserrat-bold-white-16px">
+                      {aLandingPageForMobileApp}
+                    </p>
+                  </div>
+                  <img className="rectangle-46-1" src="rectangle-46.svg" />
+                  <div className="rectangle-47"></div>
+                  <div className="rectangle-48"></div>
+                </div>
+                <div className="overlap-group-8">
+                  <div className="explore-moremontserrat-bold-white-17px">
+                    {exploreMore5}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="overlap-group8-1">
+            <img className="line-8" src="line-8.svg" />
+            <img className="ellipse-12-1" src="ellipse-12.svg" />
+          </div>
+        </div>
+        <div className="banner-2">
+          <div className="flex-row-2">
+            <div className="flex-col-1">
+              <img className="vector-10" src="vector-10.svg" />
+              <div className="join-us">
+                {joinUs}
+              </div>
+              <div className="overlap-group3-1">
+                <div className="overlap-group-9">
+                  <div className="explore-moremontserrat-bold-white-17px">
+                    {exploreMore6}
+                  </div>
+                </div>
+                <div className="be-a-part-of-our-happy-community">
+                  {beAPartOfOurHappyCommunity}
+                </div>
+                <p className="we-take-immense-pridmontserrat-normal-white-16px-2">
+                  {weTakeImmensePrid}
+                </p>
+              </div>
+            </div>
+            <div className="flex-col-2">
+              <div className="flex-row-3montserrat-normal-white-14px-2">
+                <div className="node">
+                  {node}
+                </div>
+                <div className="java">
+                  {java}
+                </div>
+                <div className="curl">
+                  {curl}
+                </div>
+              </div>
+              <div className="overlap-group2">
+                <p className="response-stub-post">
+                  <span className="arial-regular-normal-white-12px">{spanText1}</span>
+                  <span className="span1">{spanText2}</span>
+                  <span className="arial-regular-normal-white-12px">{spanText3}</span>
+                  <span className="span3">{spanText4}</span>
+                  <span className="arial-regular-normal-white-12px">{spanText5}</span>
+                </p>
+                <div className="rectangle-89"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="why-choose-us">
+          <div className="flex-col-3">
+            <div className="why">
+              {why}
+            </div>
+            <div className="why-we-are-the-best">
+              {whyWeAreTheBest}
+            </div>
+          </div>
+          <div className="flex-row-4">
+            <div className="overlap-group-container-2">
+              <div className="overlap-group-10">
+                <div className="we-understand-your-needsmontserrat-bold-white-20px">
+                  {weUnderstandYourNeeds}
+                </div>
+                <p className="merklabs-totally-relmontserrat-medium-white-16px">
+                  {merklabsTotallyRel}
+                </p>
+              </div>
+              <div className="overlap-group2-1">
+                <div className="we-have-allmontserrat-bold-white-20px">
+                  {weHaveAll}
+                </div>
+                <p className="we-not-only-providemontserrat-medium-white-16px">
+                  {weNotOnlyProvide}
+                </p>
+              </div>
+            </div>
+            <div className="flex-col-4">
+              <div className="verify-container">
+                <div className="we-verify-and-rectifymontserrat-bold-white-20px">
+                  {weVerifyAndRectify}
+                </div>
+                <p className="verifying-the-vulnermontserrat-medium-white-16px">
+                  {verifyingTheVulner}
+                </p>
+              </div>
+              <div className="faq-4">
+                <div className="we-add-value-to-your-ideasmontserrat-bold-white-20px">
+                  {weAddValueToYourIdeas}
+                </div>
+                <p className="team-marklabs-put-inmontserrat-medium-white-16px">
+                  {teamMarklabsPutIn}
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="overlap-group13">
+          <div className="contact-us">
+            <div className="horizontal-line-1"></div>
+            <div className="flex-row-5">
+              <div className="page-header-1">
+                <div className="placemontserrat-semi-bold-bright-turquoise-16px">
+                  {place1}
+                </div>
+                <div className="we-love-receiving-memontserrat-bold-white-36px">
+                  {weLoveReceivingMe}
+                </div>
+                <div className="icon-list">
+                  <img className="frame" src="frame-9.svg" />
+                  <div className="flex-col-5">
+                    <div className="keymontserrat-medium-white-16px">
+                      {key}
+                    </div>
+                    <div className="valuemontserrat-bold-white-20px">
+                      {value}
+                    </div>
+                  </div>
+                </div>
+                <div className="icon-list-1">
+                  <img className="frame" src="frame-10.svg" />
+                  <div className="flex-col-6">
+                    <div className="emailmontserrat-medium-white-16px">
+                      {email}
+                    </div>
+                    <div className="support-merk-labstldmontserrat-bold-white-20px">
+                      {supportMerklabsTld}
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="overlap-group2-2">
+                <img className="rectangle-56" src="rectangle-56.svg" />
+                <div className="send-messegemontserrat-bold-white-17px">
+                  {sendMessege}
+                </div>
+                <div className="contact-form">
+                  <div className="field-container">
+                    <TypeText>{typeText1Props.children}</TypeText>
+                    <TypeText className={typeText2Props.className}>
+                      {typeText2Props.children}
+                    </TypeText>
+                  </div>
+                  <TypeText className={typeText3Props.className}>
+                    {typeText3Props.children}
+                  </TypeText>
+                  <TypeTextarea>{typeTextareaProps.children}</TypeTextarea>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="review">
+            <div className="overlap-group6">
+              <div className="ellipse-container-1">
+                <div className="ellipse-2border-1px-voodoo"></div>
+                <div className="ellipse-3border-1px-voodoo"></div>
+              </div>
+              <div className="we-love-developers">
+                {weLoveDevelopers}
+              </div>
+              <p className="nullam-varius-porttimontserrat-normal-white-16px-2">
+                {nullamVariusPortti}
+              </p>
+            </div>
+            <div className="overlap-group5">
+              <img className="glass-box" src="glass-box.svg" />
+              <p className="lorem-ipsum-is-simpl">
+                {loremIpsumIsSimpl1}
+              </p>
+              <img className="glass-box-1" src="glass-box-1.svg" />
+              <div className="group-441">
+                <BlogBlocks />
+                <p className="lorem-ipsum-is-simpl-1">
+                  {loremIpsumIsSimpl2}
+                </p>
+                <Group440 ellipse8={group4401Props.ellipse8} ellipse9={group4401Props.ellipse9} />
+                <div className="overlap-group1-1">
+                  <div className="namevalign-text-bottommontserrat-medium-bon-jour-14-3px">
+                    {name1}
+                  </div>
+                  <div className="founder-of-awesomeux-technologyvalign-text-bottommontserrat-light-heather-11-5px">
+                    {founderOfAwesomeuxTechnology1}
+                  </div>
+                </div>
+              </div>
+              <img className="glass-box-2" src="glass-box-2.svg" />
+              <p className="lorem-ipsum-is-simpl-2">
+                {loremIpsumIsSimpl3}
+              </p>
+              <div className="group-5">
+                <div className="ellipse-container-2">
+                  <img className="ellipse-8-1" src={ellipse8} />
+                  <img className="ellipse-9-1" src={ellipse92} />
+                </div>
+              </div>
+              <img className="image" src=".svg" />
+              <div className="name-1valign-text-bottom">
+                {name2}
+              </div>
+              <div className="founder-of-awesomeux-technology-1valign-text-bottom">
+                {founderOfAwesomeuxTechnology2}
+              </div>
+              <Group440
+                ellipse8={group4402Props.ellipse8}
+                ellipse9={group4402Props.ellipse9}
+                className={group4402Props.className}
+              />
+              <div className="name-2valign-text-bottom">
+                {name3}
+              </div>
+              <div className="founder-of-awesomeux-technology-2valign-text-bottom">
+                {founderOfAwesomeuxTechnology3}
+              </div>
+              <BlogBlocks className={blogBlocks1Props.className} />
+              <BlogBlocks className={blogBlocks2Props.className} />
+              <Group440
+                ellipse8={group4403Props.ellipse8}
+                ellipse9={group4403Props.ellipse9}
+                className={group4403Props.className}
+              />
+              <div className="name-3valign-text-bottommontserrat-medium-bon-jour-14-3px">
+                {name4}
+              </div>
+              <div className="founder-of-awesomeux-technology-3valign-text-bottommontserrat-light-heather-11-5px">
+                {founderOfAwesomeuxTechnology4}
+              </div>
+              <BlogBlocks className={blogBlocks3Props.className} />
+            </div>
+          </div>
+          <div className="neon-7">
+            <img className="line-9" src="line-9.svg" />
+            <img className="ellipse-13-1" src="ellipse-13.svg" />
+          </div>
+        </div>
+        <div className="footer">
+          <div className="callout">
+            <div className="flex-row-6">
+              <div className="weve-prepared-everymontserrat-bold-white-30px">
+                {weVePreparedEvery}
+              </div>
+              <div className="overlap-group-11">
+                <div className="send-quotemontserrat-bold-white-17px">
+                  {sendQuote1}
+                </div>
+              </div>
+              <div className="overlap-group1-2">
+                <div className="place-1">
+                  {place2}
+                </div>
+              </div>
+            </div>
+            <div className="horizontal-line-2"></div>
+          </div>
+          <div className="flex-row-7">
+            <img className="vector" src="vector.svg" />
+            <div className="merk">
+              {merk}
+            </div>
+            <div className="servicesmontserrat-medium-white-14px">
+              {services}
+            </div>
+            <div className="companymontserrat-medium-white-14px">
+              {company}
+            </div>
+            <div className="resourcesmontserrat-medium-white-14px">
+              {resources}
+            </div>
+          </div>
+          <div className="flex-row-8">
+            <p className="copyright-2021-design-by-merk-labsmontserrat-medium-white-16px">
+              {copyright2021DesignByMerkLabs}
+            </p>
+            <div className="flex-col-7montserrat-normal-white-16px">
+              <div className="web-development">
+                {webDevelopment}
+              </div>
+              <div className="app-development">
+                {appDevelopment}
+              </div>
+              <div className="ui-design">
+                {uiDesign}
+              </div>
+              <div className="consultation">
+                {consultation}
+              </div>
+              <div className="maintenance">
+                {maintenance}
+              </div>
+            </div>
+            <div className="flex-col-8montserrat-normal-white-16px">
+              <div className="about">
+                {about}
+              </div>
+              <div className="place-2">
+                {place3}
+              </div>
+              <div className="send-quote-1">
+                {sendQuote2}
+              </div>
+              <div className="privacy-policy">
+                {privacyPolicy}
+              </div>
+              <div className="term-of-service">
+                {termOfService}
+              </div>
+              <div className="jobs">
+                {jobs}
+              </div>
+            </div>
+            <div className="flex-col-9montserrat-normal-white-16px">
+              <div className="support">
+                {support}
+              </div>
+              <div className="documentation">
+                {documentation}
+              </div>
+              <div className="license">
+                {license}
+              </div>
+              <div className="sitemap">
+                {sitemap}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function TypeText(props) {
+  const { children, className } = props;
+
+  return (
+    <div className={`field-1 ${className || ""}`}>
+      <div className="labelmontserrat-normal-white-14px">
+        {children}
+      </div>
+      <div className="form-controlborder-1px-white-3"></div>
+    </div>
+  );
+}
+
+function TypeTextarea(props) {
+  const { children } = props;
+
+  return (
+    <div className="field-4">
+      <div className="tell-us-your-problemmontserrat-normal-white-14px">
+        {children}
+      </div>
+      <div className="rectangle-117border-1px-white-3"></div>
+    </div>
+  );
+}
+
+function BlogBlocks(props) {
+  const { className } = props;
+
+  return (
+    <div className={`blog-blocks-1 poppins-normal-suva-gray-10px ${className || ""}`}>
+      <div className="x19-augs-2018-by-j">
+        01 FEB, 2019
+      </div>
+      <div className="rectangleborder-1px-suva-gray"></div>
+      <div className="technology-1">
+        TECHNOLOGY
+      </div>
+    </div>
+  );
+}
+
+function Group440(props) {
+  const { ellipse8, ellipse9, className } = props;
+
+  return (
+    <div className={`group-440 ${className || ""}`}>
+      <div className="ellipse-container-3">
+        <img className="ellipse-8-2" src={ellipse8} />
+        <img className="ellipse-9-2" src={ellipse9} />
+      </div>
+    </div>
+  );
+}
+
+const typeText1Data = {
+  children: "Name",
+};
+
+const typeText2Data = {
+  children: "Email",
+  className: "field-2",
+};
+
+const typeText3Data = {
+  children: "Subject",
+  className: "field-3",
+};
+
+const typeTextareaData = {
+  children: "Message",
+};
+
+const group4401Data = {
+  ellipse8: "ellipse-8.png",
+  ellipse9: "ellipse-9.png",
+};
+
+const group4402Data = {
+  ellipse8: "ellipse-8-2.png",
+  ellipse9: "ellipse-9-2.png",
+  className: "group-4",
+};
+
+const blogBlocks2Data = {
+  className: "blog-blocks-2",
+};
+
+const blogBlocks3Data = {
+  className: "blog-blocks",
+};
+
+const group4403Data = {
+  ellipse8: "ellipse-8-2.png",
+  ellipse9: "ellipse-9-3.png",
+  className: "group-4",
+};
+
+const blogBlocks4Data = {
+  className: "blog-blocks",
+};
+
+const x3rdSectionData = {
+  x3RdSection: "https://anima-uploads.s3.amazonaws.com/releases/62499b8f87bc4dde4f5efd50/img/3rd-section.png",
+  readArticle: "Read Article",
+  theBestWayToAvoi: "The Best Way to Avoid Data Leaks and Privacy Scandals: Don't Own Consumer Data",
+  theseAreCompanies:
+    "“These are companies, like intellicam, that are actually working to get our data onto personal servers so we own it, not the companies”",
+  ourTeam: "OUR TEAM",
+  meetTheTeamOfBestDevelopers: "MEET THE TEAM OF BEST  DEVELOPERS:",
+  exploreMore1: "Explore More",
+  weHaveATeamOfSk:
+    "We have a team of skilled veteran developers who exhibit amazing efficiency in their performance. With MerkLabs, you are in safe hands.  We understand your needs and give out a performance that matches your expectations.",
+  x: "X",
+  number1: "230",
+  y: "Y",
+  number2: "343",
+  w: "W",
+  number3: "500",
+  h: "H",
+  number4: "500",
+  price: "R",
+  text1: "0º",
+  c: "C",
+  number5: "5",
+  fill: "Fill",
+  ffffff: "#FFFFFF",
+  percent: "100%",
+  ellipse91: "ellipse-9-4.png",
+  ellipse102: "ellipse-10.png",
+  projects: "PROJECTS",
+  weHaveCompletedMa: "We have completed many amazing projects that you will not believe",
+  technology: "Technology",
+  projectTitle: "The Desktop App Landing Page",
+  aLandingPageForDesktopApp1: "A landing page for desktop app",
+  exploreMore2: "Explore More",
+  theDesktopAppLandingPage1: "The Desktop App Landing Page",
+  aLandingPageForDesktopApp2: "A landing page for desktop app",
+  exploreMore3: "Explore More",
+  theDesktopAppLandingPage2: "The Desktop App Landing Page",
+  aLandingPageForDesktopApp3: "A landing page for desktop app",
+  exploreMore4: "Explore More",
+  theMobileAppLandingPage: "The Mobile App Landing Page",
+  aLandingPageForMobileApp: "A landing page for mobile app",
+  exploreMore5: "Explore More",
+  joinUs: "Join Us",
+  exploreMore6: "Explore More",
+  beAPartOfOurHappyCommunity: "BE A PART OF OUR HAPPY COMMUNITY",
+  weTakeImmensePrid:
+    "We take immense pride in our achievements and have a happy and satisfied community that trusts our work wholeheartedly. Then what are you waiting for ,come and be a part of the merklabs family, because we are here always for you.",
+  node: "Node",
+  java: "Java",
+  curl: "Curl",
+  spanText1: "response = stub.",
+  spanText2: "PostModelOutputs",
+  spanText3: (
+    <>
+      (<br /> service_pb2.PostModelOutputsRequest(
+      <br /> model_id=&quot;{THE_MODEL_ID}&quot;,
+      <br /> inputs=[
+      <br /> resources_pb2.Input(
+      <br /> data=resources_pb2.Data(
+      <br /> image=resources_pb2.Image(
+      <br /> url=&quot;https://samples.clarifai.com/metro-north.jpg&quot;
+      <br /> )<br /> )<br /> )<br /> ]<br /> ),
+      <br /> metadata=metadata
+      <br />)<br />
+      print(&quot;Predicted concepts:&quot;)
+      <br />
+    </>
+  ),
+  spanText4: (
+    <>
+      for concept in response.outputs[0].data.concepts:
+      <br />
+    </>
+  ),
+  spanText5: `    print(concept.name + " " + str(concept.value))`,
+  why: "Why",
+  whyWeAreTheBest: "WHY WE ARE THE BEST?",
+  weUnderstandYourNeeds: "WE UNDERSTAND YOUR NEEDS",
+  merklabsTotallyRel:
+    "Merklabs totally relates to your concern and the significance , the security of smart contract carries , we comprehend the vulnerabilities and give out the promise of security through auditing it and removing all the errors of the smart contracts",
+  weHaveAll: "WE HAVE ALL",
+  weNotOnlyProvide:
+    "We not only provide you with security but also develop efficient smart contracts to suit your needs and requirements. Ranging from various categories we are here to assist the clients from creation of smart contracts to dApps and Defis.",
+  weVerifyAndRectify: "WE VERIFY AND RECTIFY",
+  verifyingTheVulner:
+    "Verifying the vulnerabilities of the contract , we also provide the best suggestion for rectifications. Omitting out any bugs and making your smart contract error free .",
+  weAddValueToYourIdeas: "WE ADD VALUE TO YOUR IDEAS",
+  teamMarklabsPutIn:
+    "Team Marklabs put in the best of its efforts to give out incredible results. We ensure and prioritize client satisfaction and exhibit results that match your expectations.Adding value to your projects is our ultimate goal.",
+  place1: "CONTACT",
+  weLoveReceivingMe: "We love receiving messages from you, we are waiting for it.",
+  key: "Phone",
+  value: "+62 1234 8921",
+  email: "Email",
+  supportMerklabsTld: "support@MerkLabs.tld",
+  sendMessege: "Send Messege",
+  weLoveDevelopers: "Our Clien Review",
+  nullamVariusPortti: "Subscribe to our newsletter for daily/weekly update of our products and services.",
+  loremIpsumIsSimpl1:
+    "Lorem Ipsum is simply dummy text of the printing and typesetting  text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  loremIpsumIsSimpl2:
+    "Lorem Ipsum is simply dummy text of the printing and typesetting  text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  name1: "JOHN SMITH",
+  founderOfAwesomeuxTechnology1: "Founder of Awesomeux Technology",
+  loremIpsumIsSimpl3:
+    "Lorem Ipsum is simply dummy text of the printing and typesetting  text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  ellipse8: "ellipse-8-1.png",
+  ellipse92: "ellipse-9-1.png",
+  name2: "JOHN SMITH",
+  founderOfAwesomeuxTechnology2: "Founder of Awesomeux Technology",
+  name3: "JOHN SMITH",
+  founderOfAwesomeuxTechnology3: "Founder of Awesomeux Technology",
+  name4: "JOHN SMITH",
+  founderOfAwesomeuxTechnology4: "Founder of Awesomeux Technology",
+  weVePreparedEvery: "We've prepared everything, it's time for you to tell the problem",
+  sendQuote1: "Send Quote",
+  place2: "Ask",
+  merk: "Merk",
+  services: "SERVICES",
+  company: "COMPANY",
+  resources: "RESOURCES",
+  copyright2021DesignByMerkLabs: (
+    <>
+      Copyright © 2021
+      <br />
+      Design By Merk Labs
+    </>
+  ),
+  webDevelopment: "Web Development",
+  appDevelopment: "App Development",
+  uiDesign: "UI Design",
+  consultation: "Consultation",
+  maintenance: "Maintenance",
+  about: "About",
+  place3: "Contact",
+  sendQuote2: "Send Quote",
+  privacyPolicy: "Privacy Policy",
+  termOfService: "Term of Service",
+  jobs: "Jobs",
+  support: "Support",
+  documentation: "Documentation",
+  license: "License",
+  sitemap: "Sitemap",
+  typeText1Props: typeText1Data,
+  typeText2Props: typeText2Data,
+  typeText3Props: typeText3Data,
+  typeTextareaProps: typeTextareaData,
+  group4401Props: group4401Data,
+  group4402Props: group4402Data,
+  blogBlocks1Props: blogBlocks2Data,
+  blogBlocks2Props: blogBlocks3Data,
+  group4403Props: group4403Data,
+  blogBlocks3Props: blogBlocks4Data,
+};

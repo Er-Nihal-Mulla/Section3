@@ -1,0 +1,618 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700,300,500,600|Poppins:400|Prompt:500|IBM+Plex+Mono:300|Noto+Sans:400,700,600");
+
+.our-team-section-join-us {
+    align-items: center;
+    display: flex;
+    min-inline-size: 1041px;
+}
+.our-team-section-join-us-x84v8p {
+    background-color: transparent;
+    block-size: 549px;
+    inset-inline-start: 178px;
+    position: absolute;
+    inset-block-start: 887px;
+    inline-size: 1041px;
+}
+.meet-the-team-of-best-developers-a8bHWd {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+    block-size: auto;
+    inset-inline-start: 0px;
+    letter-spacing: 0px;
+    line-height: 48px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 102px;
+    inline-size: 407px;
+}
+.button-a8bHWd {
+    background-color: transparent;
+    block-size: 60px;
+    inset-inline-start: 0px;
+    position: absolute;
+    inset-block-start: 400px;
+    inline-size: 167px;
+}
+.rectangle-21-pNnR7W {
+    background-color: transparent;
+    block-size: 67px;
+    inset-inline-start: -3px;
+    mix-blend-mode: normal;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 171px;
+}
+.explore-more-pNnR7W {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 19px;
+    letter-spacing: 0px;
+    line-height: 20.4px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 0px 4px #ffffff40;
+    inset-block-start: 23px;
+    white-space: nowrap;
+    inline-size: auto;
+    cursor: pointer;
+}
+.our-team-a8bHWd {
+    background-color: transparent;
+    color: #608dff;
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 600;
+    block-size: auto;
+    inset-inline-start: 0px;
+    letter-spacing: 1.6px;
+    line-height: 32px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 66px;
+    white-space: nowrap;
+    inline-size: auto;
+}
+.we-have-a-team-of-sk-a8bHWd {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 0px;
+    letter-spacing: 0px;
+    line-height: 32px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 216px;
+    inline-size: 415px;
+}
+.team-illustration-a8bHWd {
+    background-color: transparent;
+    block-size: 549px;
+    inset-inline-start: 430px;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 605px;
+}
+.rectangle-13-nZRI1u {
+    background-color: transparent;
+    border: 4px solid var(--white-5);
+    border-radius: 5px;
+    block-size: 324px;
+    inset-inline-start: 5px;
+    opacity: 0.5;
+    position: absolute;
+    inset-block-start: 225px;
+    inline-size: 374px;
+}
+.group-21-nZRI1u {
+    background-color: transparent;
+    block-size: 324px;
+    inset-inline-start: 37px;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 505px;
+}
+.rectangle-12-xJTdcD {
+    -webkit-backdrop-filter: blur(74px) brightness(100%);
+    backdrop-filter: blur(74px) brightness(100%);
+    background-color: var(--white-5);
+    border-radius: 10px;
+    block-size: 324px;
+    inset-inline-start: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 505px;
+}
+.wireframer-xJTdcD {
+    background-color: transparent;
+    block-size: 231px;
+    inset-inline-start: 34px;
+    mix-blend-mode: normal;
+    position: absolute;
+    inset-block-start: 66px;
+    inline-size: 385px;
+}
+.ellipse-7-xJTdcD {
+    background-color: #fb165a;
+    border-radius: 5px;
+    block-size: 10px;
+    inset-inline-start: 29px;
+    mix-blend-mode: normal;
+    position: absolute;
+    inset-block-start: 30px;
+    inline-size: 10px;
+}
+.ellipse-8-xJTdcD {
+    background-color: #fb9f16;
+    border-radius: 5px;
+    block-size: 10px;
+    inset-inline-start: 45px;
+    mix-blend-mode: normal;
+    position: absolute;
+    inset-block-start: 30px;
+    inline-size: 10px;
+}
+.ellipse-6-xJTdcD {
+    background-color: #16fba9;
+    border-radius: 5px;
+    block-size: 10px;
+    inset-inline-start: 61px;
+    mix-blend-mode: normal;
+    position: absolute;
+    inset-block-start: 30px;
+    inline-size: 10px;
+}
+.illustration-design-nZRI1u {
+    background-color: transparent;
+    block-size: 285px;
+    inset-inline-start: 241px;
+    position: absolute;
+    inset-block-start: 186px;
+    inline-size: 332px;
+}
+.rectangle-12-2a1NiM {
+    background-color: #161629;
+    border-radius: 5px;
+    box-shadow: 0px 15px 30px #00000026;
+    block-size: 285px;
+    inset-inline-start: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 328px;
+}
+.rectangle-15-2a1NiM {
+    background-color: transparent;
+    border-radius: 1px;
+    block-size: 30px;
+    inset-inline-start: 169px;
+    position: absolute;
+    inset-block-start: 217px;
+    inline-size: 49px;
+}
+.frame-4-2a1NiM {
+    background-color: transparent;
+    block-size: 30px;
+    inset-inline-start: 269px;
+    mix-blend-mode: normal;
+    position: absolute;
+    inset-block-start: 217px;
+    inline-size: 30px;
+}
+.frame-5-2a1NiM {
+    background-color: transparent;
+    block-size: 30px;
+    inset-inline-start: 228px;
+    mix-blend-mode: normal;
+    position: absolute;
+    inset-block-start: 217px;
+    inline-size: 30px;
+}
+.x100-2a1NiM {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 177px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 224px;
+    inline-size: auto;
+}
+.group-3-2a1NiM {
+    background-color: transparent;
+    block-size: 30px;
+    inset-inline-start: 29px;
+    position: absolute;
+    inset-block-start: 41px;
+    inline-size: 134px;
+}
+.x-HpmbiM {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 11px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.x230-HpmbiM {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 31px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.rectangle-14-HpmbiM {
+    background-color: transparent;
+    border-radius: 1px;
+    block-size: 30px;
+    inset-inline-start: 0px;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 130px;
+}
+
+.group-5-2a1NiM {
+    background-color: transparent;
+    block-size: 30px;
+    inset-inline-start: 29px;
+    position: absolute;
+    inset-block-start: 86px;
+    inline-size: 134px;
+}
+.w-73vbMy {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 11px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.x500-73vbMy {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 31px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.rectangle-14-73vbMy {
+    background-color: transparent;
+    border-radius: 1px;
+    block-size: 30px;
+    inset-inline-start: 0px;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 130px;
+}
+.group-7-2a1NiM {
+    background-color: transparent;
+    block-size: 30px;
+    inset-inline-start: 29px;
+    position: absolute;
+    inset-block-start: 131px;
+    inline-size: 134px;
+}
+.r-cAplLb {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 11px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.x0-cAplLb {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 31px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.rectangle-14-cAplLb {
+    background-color: transparent;
+    border-radius: 1px;
+    block-size: 30px;
+    inset-inline-start: 0px;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 130px;
+}
+.group-9-2a1NiM {
+    background-color: transparent;
+    block-size: 30px;
+    inset-inline-start: 29px;
+    position: absolute;
+    inset-block-start: 217px;
+    inline-size: 132px;
+}
+.ffffff-ELcVjH {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 36px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.rectangle-14-ELcVjH {
+    background-color: transparent;
+    border-radius: 1px;
+    block-size: 30px;
+    inset-inline-start: 0px;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 130px;
+}
+.group-8-2a1NiM {
+    background-color: transparent;
+    block-size: 30px;
+    inset-inline-start: 169px;
+    position: absolute;
+    inset-block-start: 131px;
+    inline-size: 134px;
+}
+.c-V8xK1r {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 11px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.x5-V8xK1r {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 31px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.rectangle-14-V8xK1r {
+    background-color: transparent;
+    border-radius: 1px;
+    block-size: 30px;
+    inset-inline-start: 0px;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 130px;
+}
+.group-6-2a1NiM {
+    background-color: transparent;
+    block-size: 30px;
+    inset-inline-start: 169px;
+    position: absolute;
+    inset-block-start: 86px;
+    inline-size: 134px;
+}
+.h-bjptE4 {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 11px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.x500-bjptE4 {
+    background-color: transparent;
+    block-size: auto;
+    inset-inline-start: 31px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: start;
+    inset-block-start: 7px;
+    inline-size: auto;
+}
+.rectangle-14-bjptE4 {
+    background-color: transparent;
+    border-radius: 1px;
+    block-size: 30px;
+    inset-inline-start: 0px;
+    position: absolute;
+    inset-block-start: 0px;
+    inline-size: 130px;
+}
+.group-4-2a1NiM {
+    background-color: transparent;
+    block-size: 30px;
+    inset-inline-start: 169px;
+    position: absolute;
+    inset-block-start: 41px;
+    inline-size: 134px;
+}
+.y-tZxcBo {
+    background-color: transparent;
+    height: auto;
+    left: 10px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 7px;
+    width: auto;
+}
+.x343-tZxcBo {
+    background-color: transparent;
+    height: auto;
+    left: 30px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 7px;
+    width: auto;
+}
+.rectangle-15-tZxcBo {
+    background-color: transparent;
+    border-radius: 1px;
+    height: 30px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 130px;
+}
+
+.fill-2a1NiM {
+    background-color: transparent;
+    height: auto;
+    left: 29px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 186px;
+    width: auto;
+}
+.rectangle-16-2a1NiM {
+    background-color: var(--white);
+    border-radius: 1px;
+    height: 20px;
+    left: 36px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 222px;
+    width: 20px;
+}
+
+.ellipse-14-nZRI1u {
+    background-color: var(--white-5);
+    border-radius: 46px;
+    height: 92px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 266px;
+    width: 92px;
+}
+.ellipse-13-nZRI1u {
+    background-color: var(--white-4);
+    border-radius: 36px;
+    height: 72px;
+    left: 10px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 276px;
+    width: 72px;
+}
+.ellipse-9-nZRI1u {
+    background-color: transparent;
+    height: 60px;
+    left: 16px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 282px;
+    width: 60px;
+}
+.ellipse-12-nZRI1u {
+    background-color: var(--white-5);
+    border-radius: 45px;
+    height: 90px;
+    left: 515px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 149px;
+    width: 90px;
+}
+.ellipse-11-nZRI1u {
+    background-color: var(--white-4);
+    border-radius: 38px;
+    height: 76px;
+    left: 522px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 156px;
+    width: 76px;
+}
+.ellipse-10-nZRI1u {
+    background-color: transparent;
+    height: 60px;
+    left: 530px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 164px;
+    width: 60px;
+}
+
+:root {
+    --black: #000000;
+    --bon-jour: #e0e0e0;
+    --bright-turquoise: #16fbd2;
+    --heather: #b5bccc;
+    --suva-gray: #888888;
+    --white: #ffffff;
+    --white-2: #ffffff99;
+    --white-3: #ffffff1a;
+    --white-4: #ffffff33;
+    --white-5: #ffffff0d;
+    --white-6: #ffffff24;
+    --white-7: #ffffff0a;
+    --font-size-l: 20px;
+    --font-size-m: 16px;
+    --font-size-s: 13.2px;
+    --font-size-xl: 30px;
+    --font-size-xs: 12px;
+    --font-size-xxs: 10.2px;
+    --font-size-xxxs: 8.2px;
+    --font-family-arial-regular: "Arial-Regular", Helvetica;
+    --font-family-ibm_plex_mono: "IBM Plex Mono", Helvetica;
+    --font-family-montserrat: "Montserrat", Helvetica;
+    --font-family-noto_sans: "Noto Sans", Helvetica;
+    --font-family-poppins: "Poppins", Helvetica;
+    --font-family-prompt: "Prompt", Helvetica;
+}

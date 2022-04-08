@@ -1,0 +1,214 @@
+.why-choose-us-x84v8p {
+    background-color: transparent;
+    height: 664px;
+    left: 195px;
+    position: absolute;
+    top: 4882px;
+    width: 1021px;
+}
+.why-we-are-the-best-qYZdj9 {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-noto_sans);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 700;
+    height: auto;
+    left: 255px;
+    letter-spacing: 0px;
+    line-height: 48px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: center;
+    top: 36px;
+    width: 507px;
+}
+.why-qYZdj9 {
+    background-color: transparent;
+    color: var(--bright-turquoise);
+    font-family: var(--font-family-noto_sans);
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 600;
+    height: auto;
+    left: 475px;
+    letter-spacing: 2.9px;
+    line-height: 32px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    white-space: nowrap;
+    width: auto;
+}
+.faq-1-qYZdj9 {
+    background-color: transparent;
+    height: 218px;
+    left: 0px;
+    position: absolute;
+    top: 210px;
+    width: 499px;
+}
+.we-understand-your-needs-pF3Ykf {
+    background-color: transparent;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: 48px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: auto;
+}
+.merklabs-totally-rel-pF3Ykf {
+    background-color: transparent;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: 32px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 58px;
+    width: 495px;
+}
+.faq-2-qYZdj9 {
+    background-color: transparent;
+    height: 186px;
+    left: 522px;
+    position: absolute;
+    top: 210px;
+    width: 499px;
+}
+.we-verify-and-rectify-6KMtIW {
+    background-color: transparent;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: 48px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: auto;
+}
+.verifying-the-vulner-6KMtIW {
+    background-color: transparent;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: 32px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 58px;
+    width: 495px;
+}
+.faq-3-qYZdj9 {
+    background-color: transparent;
+    height: 250px;
+    left: 0px;
+    position: absolute;
+    top: 414px;
+    width: 499px;
+}
+.we-have-all-j17GYj {
+    background-color: transparent;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: 48px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: auto;
+}
+.we-not-only-provide-j17GYj {
+    background-color: transparent;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: 32px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 58px;
+    width: 495px;
+}
+.faq-4-qYZdj9 {
+    background-color: transparent;
+    height: 218px;
+    left: 522px;
+    position: absolute;
+    top: 414px;
+    width: 499px;
+}
+.we-add-value-to-your-ideas-1OKuKI {
+    background-color: transparent;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: 48px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    white-space: nowrap;
+    width: auto;
+}
+.team-marklabs-put-in-1OKuKI {
+    background-color: transparent;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: 32px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 58px;
+    width: 495px;
+}
+.montserrat-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 700;
+}
+.montserrat-medium-white-16px {
+    color: var(--white-2);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 500;
+}
+
+:root {
+    --black: #000000;
+    --bon-jour: #e0e0e0;
+    --bright-turquoise: #16fbd2;
+    --heather: #b5bccc;
+    --suva-gray: #888888;
+    --white: #ffffff;
+    --white-2: #ffffff99;
+    --white-3: #ffffff1a;
+    --white-4: #ffffff33;
+    --white-5: #ffffff0d;
+    --white-6: #ffffff24;
+    --white-7: #ffffff0a;
+    --font-size-l: 20px;
+    --font-size-m: 16px;
+    --font-size-s: 13.2px;
+    --font-size-xl: 30px;
+    --font-size-xs: 12px;
+    --font-size-xxs: 10.2px;
+    --font-size-xxxs: 8.2px;
+    --font-family-arial-regular: "Arial-Regular", Helvetica;
+    --font-family-ibm_plex_mono: "IBM Plex Mono", Helvetica;
+    --font-family-montserrat: "Montserrat", Helvetica;
+    --font-family-noto_sans: "Noto Sans", Helvetica;
+    --font-family-poppins: "Poppins", Helvetica;
+    --font-family-prompt: "Prompt", Helvetica;
+}
